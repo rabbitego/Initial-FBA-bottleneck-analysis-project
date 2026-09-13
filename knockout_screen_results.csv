@@ -1,0 +1,6 @@
+Reaction,Name,Baseline growth,Growth after KO,% of baseline
+PFK,phosphofructokinase,0.8739,0.704,80.6
+PYK,pyruvate kinase,0.8739,0.8649,99.0
+CS,citrate synthase,0.8739,0.0,0.0
+G6PDH2r,glucose 6-phosphate dehydrogenase,0.8739,0.8638,98.8
+ENO,enolase,0.8739,-0.0,-0.0
